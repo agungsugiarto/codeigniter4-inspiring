@@ -5,8 +5,9 @@
 [![License](https://poser.pugx.org/agungsugiarto/codeigniter4-inspiring/license)](https://packagist.org/packages/agungsugiarto/codeigniter4-inspiring)
 [![test](https://github.com/agungsugiarto/codeigniter4-inspiring/workflows/inspiring%20build/badge.svg)](https://github.com/agungsugiarto/codeigniter4-inspiring/actions)
 
-[Notepad++ easter egg quotes](http://en.wikipedia.org/wiki/Notepad%2B%2B#Easter_egg) and have a lot more inspiration.W
+[Notepad++ easter egg quotes](http://en.wikipedia.org/wiki/Notepad%2B%2B#Easter_egg) and have a lot more inspiration.
 
+![](.github/carbon.png?raw=true)
 ## Instalation
 
 Include this package via Composer:
