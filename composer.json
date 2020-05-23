@@ -1,0 +1,32 @@
+{
+    "name": "agungsugiarto/codeigniter4-inspiring",
+    "description": "Inspiring quotes for codeigniter4",
+    "keywords": ["codegniter4", "package", "console"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "agungsugiarto",
+            "email": "me.agungsugiarto@tgmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "codeigniter4/framework": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Agungsugiarto\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit --colors=always -vvv"
+    }
+}
