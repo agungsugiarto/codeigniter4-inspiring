@@ -1,6 +1,6 @@
 # Funny Inspiring quote for CodeIgniter4
 
-[![Latest Version](https://img.shields.io/github/release/agungsugiarto/codeigniter4-inspiring.svg)](https://github.com/aguingsugiarto/codeigniter4-inspiring/releases)
+[![Latest Version](https://img.shields.io/github/release/agungsugiarto/codeigniter4-inspiring.svg)](https://github.com/agungsugiarto/codeigniter4-inspiring/releases)
 [![Total Downloads](https://poser.pugx.org/agungsugiarto/codeigniter4-inspiring/downloads)](https://packagist.org/packages/agungsugiarto/codeigniter4-inspiring)
 [![License](https://poser.pugx.org/agungsugiarto/codeigniter4-inspiring/license)](https://packagist.org/packages/agungsugiarto/codeigniter4-inspiring)
 [![test](https://github.com/agungsugiarto/codeigniter4-inspiring/workflows/inspiring%20build/badge.svg)](https://github.com/agungsugiarto/codeigniter4-inspiring/actions)
