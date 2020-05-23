@@ -3,11 +3,9 @@
 [![Latest Version](https://img.shields.io/github/release/agungsugiarto/codeigniter4-inspiring.svg)](https://github.com/aguingsugiarto/codeigniter4-inspiring/releases)
 [![Total Downloads](https://poser.pugx.org/agungsugiarto/codeigniter4-inspiring/downloads)](https://packagist.org/packages/agungsugiarto/codeigniter4-inspiring)
 [![License](https://poser.pugx.org/agungsugiarto/codeigniter4-inspiring/license)](https://packagist.org/packages/agungsugiarto/codeigniter4-inspiring)
-![test](https://github.com/agungsugiarto/codeigniter4-inspiring/workflows/inspiring%20build/badge.svg)
+[![test](https://github.com/agungsugiarto/codeigniter4-inspiring/workflows/inspiring%20build/badge.svg)](https://github.com/agungsugiarto/codeigniter4-inspiring/actions)
 
-[Notepad++ easter egg quotes](http://en.wikipedia.org/wiki/Notepad%2B%2B#Easter_egg) and have a lot more inspiration.
-
-![](.github/carbon.png?raw=true)
+[Notepad++ easter egg quotes](http://en.wikipedia.org/wiki/Notepad%2B%2B#Easter_egg) and have a lot more inspiration.W
 
 ## Instalation
 
